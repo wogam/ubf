@@ -1,0 +1,78 @@
+Glarity SummaryGlarity Summary
+! 2022-07-02 https://www.ign.com
+www.ign.com###spotim-specific > div
+
+! 2022-10-09 https://www.eurogamer.net
+www.eurogamer.net##.leaderboard_container.advert_container
+www.eurogamer.net##.collapsible.autoad
+www.eurogamer.net##.commercial-slot-1
+
+! 2022-10-25 https://dvdgayonline.com
+dvdgayonline.com##.active.adde_modal-overlay
+dvdgayonline.com##.adde_modal_detector-show.adde_modal_detector
+
+! 2022-12-18 https://letterboxd.com
+||a.ltrbxd.com/*m/upload/gd/m5/n8/er/pro-950-o*.png?k=*$image
+
+! 2022-12-25 https://www.fragrantica.com
+www.fragrantica.com##.grid-padding-y.grid-padding-x.bg-white.grid-x > div.small-12.cell > .grid-padding-y.grid-padding-x.grid-x > div.cell > .grid-margin-y.grid-margin-x.grid-x
+www.fragrantica.com##.fuseheader
+www.fragrantica.com##div.grid-margin-y.grid-margin-x.grid-x:nth-of-type(3)
+||fimgs.net/himg/o.T3S7zEpimR4.jpg$image
+
+! 2022-12-26 https://www.parfumo.net
+||images.parfumo.de/affi/b/$image
+
+! 2022-12-27 https://letterboxd.com
+letterboxd.com##.js-hide-in-app.banner-250.banner > [href^="/pro/"]
+letterboxd.com##.js-hide-in-app.banner-950.banner > [href^="/pro/"]
+
+! 2023-01-06 https://www.metacritic.com
+www.metacritic.com##.summary_trailer
+www.metacritic.com##.sitewide_promo
+www.metacritic.com##.double_wide.list_trailers.module
+
+! 2023-01-07 https://www.flaticon.com
+www.flaticon.com###bn-icon-list
+
+! 2023-01-07 https://www.pngtosvg.com
+www.pngtosvg.com###xsdporj-blanket
+
+! 2023-01-08 https://guyswithiphones.com
+||guyswithiphones.com/style/big-image.png$image
+guyswithiphones.com##.bigimage
+
+! 2023-02-25 https://outlook.live.com
+outlook.live.com##.LBktY > .GssDD
+outlook.live.com##.Ogqyq
+
+! 2023-03-14 https://365tips.be
+365tips.be##.ez-twentytwentytwo.ez-main-cmp-wrapper.pre-render-cmp.ez_banner
+
+! 2023-03-17 https://www.thewindowsclub.com
+www.thewindowsclub.com##.ez-original.ez-main-cmp-wrapper.pre-render-cmp.ez_modal
+
+! 2023-03-24 https://www.men4menporn.eu
+www.men4menporn.eu##.zlvtvvfztnlavnfdmdvodbjnetrjbmnsmzdchmykdobhjevvttocvxx.rhrtquxqwjvvslwmxhudvrmktddwzglqlditwpnzhzyohviyuhfndocvxx
+www.men4menporn.eu###cjlvdvgvsdfnnenvuvrtznynhezybllabfzexmnndvwlqnxlbrtsifzn
+
+! 2023-03-24 https://www.gay-torrents.net
+www.gay-torrents.net###ad_global_below_navbar
+
+! 2023-04-13 https://4horlover.com
+4horlover.com##.adblock_subtitle
+4horlover.com##.adblock_title
+
+! 2023-04-13 https://javsex.to
+javsex.to###dngptkc-blanket
+
+! 2023-05-01 https://4horlover.com
+||4horlover.com/wp-content/plugins/chp-ads-block-detector/*$1p
+||4horlover.com/wp-content/plugins/age-gate/*$1p
+
+! 2023-05-01 https://www.theguardian.com
+www.theguardian.com##.dcr-19xfnpz.top-banner-ad-container
+www.theguardian.com##.dcr-1ykr3rf
+
+! 2023-05-01 https://chat.openai.com
+chat.openai.com##.md\:pb-6.md\:pt-3.md\:px-4.dark\:text-gray-300.text-gray-600.text-xs.text-center.pb-3.pt-2.px-3
